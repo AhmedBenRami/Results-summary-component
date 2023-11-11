@@ -1,3 +1,3 @@
 # Results-summary-component
 
-visit the website ate: https://github.com/AhmedBenRami/Results-summary-component.git
+visit our the website at: https://ahmedbenrami.github.io/Results-summary-component/
