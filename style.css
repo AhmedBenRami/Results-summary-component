@@ -42,7 +42,7 @@ body {
 @media (max-width: 555px) {
     .container {
         width: 100%;
-        height: 150%;
+        height: 150vh;
         grid-template-columns: 100%;
     }
 
