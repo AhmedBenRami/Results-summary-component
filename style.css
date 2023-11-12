@@ -227,7 +227,7 @@ body {
     cursor: pointer;
 }
 
-.button:hover,
-.button:focus{
+
+.button:active{
     background-image: linear-gradient(0deg, #6648ec, #312ce8);
 }
